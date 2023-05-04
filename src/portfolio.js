@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Diksha's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate Web Developer with a perfection of Creativity.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Diksha Bhambri Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://dikshabhambri.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Diksha Bhambti",
+  logo_name: "DikshaBhambri",
+  
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate Web Developer with a perfection of Creativity.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  
+  githubProfile: "https://github.com/dikshabhambri",
 };
 
 const socialMediaLinks = [
@@ -42,25 +42,25 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/dikshabhambri",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://www.linkedin.com/in/diksha-bhambri/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  {
-    name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
+  //{
+   // name: "YouTube",
+    //link: "https://youtube.com/c/DevSense19",
+    //fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    //backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  //},
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:dikshabhambri27@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -87,23 +87,23 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Web Developer",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Developing Engaging, determined, and innovative Websites",
+        "⚡ Experience of working with Nodejs",
+        "⚡ Planned digital solutions to Reality",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
+          skillName: "Java",
           fontAwesomeClassname: "logos-tensorflow",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Keras",
+          skillName: "Reactjs",
           fontAwesomeClassname: "simple-icons:keras",
           style: {
             backgroundColor: "white",
@@ -111,7 +111,7 @@ const skills = {
           },
         },
         {
-          skillName: "PyTorch",
+          skillName: "Nodejs",
           fontAwesomeClassname: "logos-pytorch",
           style: {
             backgroundColor: "transparent",
@@ -131,9 +131,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end using React",
+        "⚡ Building end-to-end solutions with code that scales and experiences that amaze.",
+        "⚡ Creating backend and frontend in Reactjs and Nodejs",
       ],
       softwareSkills: [
         {
